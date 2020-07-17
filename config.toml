@@ -1,11 +1,11 @@
-baseurl = "https://example.com/"
-languageCode = "en-us"
+baseurl = "https://harakaza.tech/"
+languageCode = "en"
 theme = "terminal"
 paginate = 5
 
 [params]
   contentTypeName = "post"
-  themeColor = "orange"
+  themeColor = "blue"
   showMenuItems = 2
   fullWidthTheme = false
   centerTheme = true
