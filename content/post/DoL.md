@@ -18,7 +18,7 @@ fetishes such as tentacles can be toggled off in settings.
 Game Information:
 
 - Degrees of Lewdity is a text-based erotic sandbox roleplaying game, currently in development by Vrelnir.
-- The official download link for the game can be found here: [https://vrelnir.blogspot.com}(https://vrelnir.blogspot.com)
+- The official download link for the game can be found here: [https://vrelnir.blogspot.com](https://vrelnir.blogspot.com)
 - The most recent version of the game is 0.3.4.8
 - mobile friendly layout
 
