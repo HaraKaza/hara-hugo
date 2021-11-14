@@ -24,7 +24,11 @@ paginate = 5
       logoText = "Hara Kaza"
       logoHomeLink = "/"
 	  
-	  [Example]({{< ref "/example/Example.html" >}} "Example html"
+	[languages.en.menu]
+      [[languages.en.menu.main]]
+		identifier = "example"
+        name = "Example html"
+        url = "/example/Example.html/"
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "theme"
