@@ -12,8 +12,8 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "Hara Kaza"
+    subtitle = "Another personal blog"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -21,14 +21,15 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Hara Kaza"
       logoHomeLink = "/"
-
+	  
+	  [Example]({{< ref "/example/Example.html" >}} "Example html"
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
+        identifier = "theme"
+        name = "theme"
+        url = "/theme"
       [[languages.en.menu.main]]
         identifier = "showcase"
         name = "Showcase"
