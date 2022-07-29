@@ -1,6 +1,6 @@
 +++
-title = "Hello"
-date = "2020-07-16"
+title = "Hello!"
+date = "2022-07-28"
 author = "Hara Kaza"
 cover = "static/img/hara-desk.png"
 description = "Hello I'm Hara Kaza, please just call me Hara. Let me tell you a little about me."
