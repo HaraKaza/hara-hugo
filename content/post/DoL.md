@@ -1,6 +1,6 @@
 +++
-title = "Degrees of Lewdity version 0.3.9.3"
-date = "2022-05-20"
+title = "Degrees of Lewdity version 0.3.6.2"
+date = "2021-10-31"
 author = "Hara Kaza"
 cover = "static/img/DoL.png"
 description = "This is a personal upload of vrelnir's Degrees of Lewdity"
@@ -19,7 +19,7 @@ Game Information:
 
 - Degrees of Lewdity is a text-based erotic sandbox roleplaying game, currently in development by Vrelnir.
 - The official download link for the game can be found here: [https://vrelnir.blogspot.com](https://vrelnir.blogspot.com)
-- The most recent version of the game is 0.3.9.3
+- The most recent version of the game is 0.3.6.2
 - mobile friendly layout
 
 I Hara Kaza have **NO** association with Vrelnir
