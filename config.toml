@@ -1,5 +1,5 @@
-baseurl = "https://harakaza.tech/"
-languageCode = "en"
+baseurl: "https://harakaza.tech/"
+languageCode: "en"
 title: "Hara Kaza"
 theme: "toha"
 
