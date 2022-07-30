@@ -5,5 +5,4 @@ description: Hara's site hugo and Toha theme.
 customMenus:
 - name: Hara's YouTube
   url: https://www.youtube.com/channel/UCbux7yV6fVJS-JK-dBlnEOw
-  hideFromNavbar: false
-  showOnFooter: true
+ 
