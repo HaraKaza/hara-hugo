@@ -37,7 +37,6 @@ params:
   # It will default to the theme logos if not provided.
   logo:
     main: images/main-logo.png
-    inverted: images/inverted-logo.png
     favicon: images/favicon.png
 
   # GitHub repo URL and branch of your site
