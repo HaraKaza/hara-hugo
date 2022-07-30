@@ -58,3 +58,8 @@ params:
     
   # background image of the landing page
   background: "images/cains-flower.jpg"
+  
+  darkMode:
+    enable: true
+    provider: darkreader
+    default: system
