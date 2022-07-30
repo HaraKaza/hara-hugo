@@ -32,7 +32,7 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL and branch of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/HaraKaza/hara-hugo
   gitBranch: main
 
   # specify whether you want to write some blog posts or not
@@ -46,8 +46,6 @@ params:
   # You can also hide it from the footer.
   newsletter:
     # specify whether you want to display the newsletter form 
-    enable: true
-    # specify which newsletter provider you want to use
-    provider: mailchimp
-    # specify the target URL for the subscription form
-    mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
+    enable: false
+    
+    
