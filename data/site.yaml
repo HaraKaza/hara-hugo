@@ -3,11 +3,6 @@ copyright: © 2020 Copyright.
 description: Hara's site hugo and Toha theme.
 
 customMenus:
-- name: Degrees of Lewdity
-  url: https://harakaza.tech/degrees-of-lewdity
-  hideFromNavbar: false
-  showOnFooter: true
-
 - name: Hara's YouTube
   url: https://www.youtube.com/channel/UCbux7yV6fVJS-JK-dBlnEOw
   hideFromNavbar: false
