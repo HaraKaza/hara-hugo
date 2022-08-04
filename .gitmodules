@@ -7,3 +7,9 @@
 [submodule "themes/toha"]
 	path = themes/toha
 	url = https://github.com/hugo-toha/toha.git
+[submodule "Lioden_CSS"]
+	path = Lioden_CSS
+	url = https://github.com/HaraKaza/Lioden_CSS
+[submodule "static/Lioden_CSS"]
+	path = static/Lioden_CSS
+	url = https://github.com/HaraKaza/Lioden_CSS
