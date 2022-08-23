@@ -30,14 +30,25 @@ span {
     float:left;
     width:90%;
     height:auto;
+    padding:20px;
+    margin:10px 1px 35px 30px;
+    font-size:20px;
+}
+
+body {
+    color: red;
+}
+
+.title{
+    background:#3df398;
+    border:1px solid #50534a;
+    float:left;
+    width:90%;
+    height:auto;
     margin:30px;
     margin-bottom:10px;
     margin-top:35px;
     padding:20px;
     color:#2c2c2c;
-    font-size:24px;
-}
-
-body {
-    color: red;
+    font-size:30px; 
 }
