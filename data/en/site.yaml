@@ -7,4 +7,6 @@ description: Hara's site hugo and Toha theme.
 customMenus:
 - name: Hara's YouTube
   url: https://www.youtube.com/channel/UCbux7yV6fVJS-JK-dBlnEOw
- 
+
+- name: Hara's NextCloud
+  url: https://server.harakaza.tech
