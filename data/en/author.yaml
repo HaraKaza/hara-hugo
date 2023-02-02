@@ -3,7 +3,7 @@ name: "Hara Kaza"
 nickname: "Hara"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/unnamed.png"
+image: "images/author/unnamed.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "Hara.Kaza@iCloud.com"
