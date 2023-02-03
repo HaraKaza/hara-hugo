@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Freelance Programmer
+designation: Freelance Software Developer
 # your company information
 company:
   name: Example Co.
@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a freelance software developer with advanced levle experience. I specialize automation software, and simple video games. If you need something to do a little work for you, maybe test application or website, or if you want some quick fun, feel free to contact me.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -30,22 +30,18 @@ socialLinks:
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/HaraKaza"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+- name: YouTube
+  icon: "fab fa-youtube"
+  url: "https://www.youtube.com/channel/UCbux7yV6fVJS-JK-dBlnEOw"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "#"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
+- name: UpWork
+  icon: "fab fa-briefcase"
   url: "#"
 
 # You can put custom buttons to link your relevant resources.
@@ -72,21 +68,6 @@ badges:
   name: CCNA
   url: "credly.com/org/cisco/badge/ccna"
   badge: "https://images.credly.com/size/340x340/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png"
-
-- type: soft-skill-indicator
-  name: C++
-  percentage: 85
-  color: blue
-
-- type: soft-skill-indicator
-  name: Python
-  percentage: 90
-  color: yellow
-
-- type: soft-skill-indicator
-  name: AutoHotkey
-  percentage: 85
-  color: "#800080"
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
