@@ -41,7 +41,7 @@ socialLinks:
   url: "#"
 
 - name: UpWork
-  icon: "fab fa-briefcase"
+  icon: "fa-solid fa-briefcase"
   url: "#"
 
 # You can put custom buttons to link your relevant resources.
