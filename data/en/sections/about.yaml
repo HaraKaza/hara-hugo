@@ -58,19 +58,17 @@ badges:
 #  name: CompTIA A+
 #  url: "https://www.credly.com/org/auldhouse/badge/comptia-a"
 #  badge: "https://images.credly.com/size/340x340/images/951f18a3-5b36-4217-b290-a18bb6c6901e/CompTIA_APlus.png"
-
+#
 #- type: certification
 #  name: CompTIA Security+
 #  url: "https://www.credly.com/org/auldhouse/badge/comptia-security"
 #  badge: "https://images.credly.com/size/340x340/images/313dc227-a720-48c0-87c2-d2e36f35e7c0/DigitalBadgeFinal_vanilla-5.png"
-
+#
 #- type: certification
 #  name: CCNA
 #  url: "credly.com/org/cisco/badge/ccna"
 #  badge: "https://images.credly.com/size/340x340/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png"
-
 # you can also provide color code instead of the color name
- 
 - type: soft-skill-indicator
    name: Example 1
    percentage: 75
