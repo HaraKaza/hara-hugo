@@ -71,15 +71,15 @@ badges:
 # you can also provide color code instead of the color name
 - type: soft-skill-indicator
   name: Example 1
-  percentage: 75
+  percentage: 85
   color: "#33A7FF"
 
 - type: soft-skill-indicator
   name: Example 2
-  percentage: 85
+  percentage: 90
   color: "#FF0000"
 
 - type: soft-skill-indicator
   name: Example 3
-  percentage: 70
+  percentage: 80
   color: "#41FF33"
