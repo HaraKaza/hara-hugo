@@ -70,16 +70,16 @@ badges:
 #  badge: "https://images.credly.com/size/340x340/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png"
 # you can also provide color code instead of the color name
 - type: soft-skill-indicator
-   name: Example 1
-   percentage: 75
-   color: "#33A7FF"
+  name: Example 1
+  percentage: 75
+  color: "#33A7FF"
 
 - type: soft-skill-indicator
-   name: Example 2
-   percentage: 85
-   color: "#FF0000"
+  name: Example 2
+  percentage: 85
+  color: "#FF0000"
 
 - type: soft-skill-indicator
-   name: Example 3
-   percentage: 70
-   color: "#41FF33"
+  name: Example 3
+  percentage: 70
+  color: "#41FF33"
